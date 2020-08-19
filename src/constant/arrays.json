@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniyal",
+      "email": "dadaniyal.amjad@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Osama",
+      "email": "osama@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Zain",
+      "email": "zain@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Mubashir",
+      "email": "mubahsir@gmail.com"
+    }
+  ]
+}
